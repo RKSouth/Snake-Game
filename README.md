@@ -18,7 +18,7 @@ My rendition of the game snake -watch out for the rocks
 
 
 ## Deployed Site
-[ClickClick!]( https://rksouth.github.io/Snake-Game/)
+[ClickClick!](https:/rksouth.github.io/Snake-Game/)
 
 ## Features 
 
